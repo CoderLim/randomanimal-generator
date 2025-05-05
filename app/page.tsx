@@ -5,6 +5,7 @@ import data from "./data";
 import contentData from './content';
 import { useState } from "react";
 import { getRandomNumbersInRange } from '@/utils/common'; 
+import FriendLinks from '@/components/FriendLinks';
 
 const IMAGE_SHOW_COUNT = 10;
 
